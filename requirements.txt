@@ -1,4 +1,4 @@
---pre -U aiogram
+--pre aiogram
 openai==0.27.8
 python-dotenv==1.0.0
 asyncio==3.4.3
