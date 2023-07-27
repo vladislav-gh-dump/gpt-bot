@@ -1,4 +1,0 @@
--U aiogram
-openai==0.27.8
-python-dotenv
-asyncio==3.4.3
